@@ -3,7 +3,7 @@ Stopwatch, SwiftUI + Only iPad + swift playgrounds
 ![IMG_0843](https://user-images.githubusercontent.com/95877651/232965559-e8b4f0f9-dd60-42e7-b532-3786a23694eb.jpeg)
 
 [Document 1]:
-
+...Swift
 import SwiftUI
 
 @main
@@ -14,9 +14,9 @@ struct MyApp: App {
         }
     }
 }
-
+...
 [Document 2]:
-
+...Swift
 import SwiftUI
 
 struct ContentView: View {
@@ -145,3 +145,4 @@ struct ClockView: View {
         }
     }
 }
+...
